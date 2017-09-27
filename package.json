@@ -1,11 +1,11 @@
 {
-  "name": "iview",
-  "version": "2.4.0",
-  "title": "iView",
-  "description": "A high quality  UI components Library with Vue.js",
-  "homepage": "http://www.iviewui.com",
+  "name": "kyyCom",
+  "version": "1.0.0",
+  "title": "kyyCom",
+  "description": "vue componetns",
+  "homepage": "",
   "keywords": [
-    "iview",
+    "kyyCom",
     "vue",
     "vue.js",
     "component",
@@ -32,12 +32,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/iview/iview"
+    "url": "https://gitee.com/liu951919064/kyyCom"
   },
-  "author": "Aresn",
+  "author": "ltinyho",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/iview/iview/issues"
+    "url": "https://gitee.com/liu951919064/kyyCom/issues"
   },
   "dependencies": {
   },
@@ -76,9 +76,6 @@
     "karma-sourcemap-loader": "^0.3.7",
     "karma-spec-reporter": "0.0.26",
     "karma-webpack": "^2.0.4",
-    "less": "^2.7.1",
-    "less-loader": "^2.2.3",
-    "lolex": "^1.5.2",
     "mocha": "^3.5.3",
     "node-sass": "^4.5.3",
     "sass-loader": "^6.0.6",
